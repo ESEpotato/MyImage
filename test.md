@@ -16,4 +16,6 @@ Here are some examples...
 
 You can also use <u>http://itmyhome.com/markdown/article/tools/retext.html<u> HTML tags in your documents.
 
+  
+![0.jpg](https://github.com/ESEpotato/MyWs/blob/master/2271_1685691138_hd.png)
 Happy editing!
